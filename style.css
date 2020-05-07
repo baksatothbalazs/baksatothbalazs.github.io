@@ -1,0 +1,78 @@
+body
+{
+	font-family: "Georgia";
+	background-color: lightgray;
+}
+li
+{
+	list-style-type: none;
+	display: inline;
+	font-size : 30px;
+	padding-right: 30px;
+}
+ul
+{
+	display: inline;
+	
+}
+#kapcsolatlink
+{
+	color: grey;
+}
+header
+{
+	background-color: royalblue;
+}
+a
+{
+	color: white;
+	font-style: bold;
+	text-decoration: none;
+}
+#aktiv
+{
+	border: solid;
+	border-color: white;
+}
+#aktiv:hover
+{
+	background-color: white;
+	color: black;
+}
+#sorkizart
+{
+	text-align: justify;
+}
+a:hover
+{
+	background-color: white;
+	color: black;
+}
+h2
+{
+	text-align: center;
+	background-color: #32292F;
+	color: white;
+}
+table
+{
+	width: 100%;
+	text-align: center;
+}
+footer{
+	background-color: royalblue;
+	color: black;
+	padding: 10px 0px 15px 10px;
+	font-style: bold;
+	font-style: italic;
+	text-align: right;
+}
+p
+{
+	font-size: 20px;
+}
+#elkoszon
+{
+	text-align: center;
+}
+
